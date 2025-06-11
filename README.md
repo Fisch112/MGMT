@@ -82,7 +82,7 @@
 </head>
 <body>
 
-  <div class="top-of-page">Big Orange Header
+  <div class="top-of-page">Eloheh
     <div class="weclome"> welcome to our home page</div>
   </div>
 
